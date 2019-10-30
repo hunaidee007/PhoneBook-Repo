@@ -3,6 +3,14 @@
 
 ![alt text](https://github.com/hunaidee007/PhoneBook-Repo/blob/master/Demo.gif)
 
+## Features
+1. Layered Architecture
+2. RestFull Services
+3. Swagger enabled (Rest Service specific action)
+4. Dependency Injection / Inversion of Control
+5. JPA ORM for Database connectivity
+6. Unit Tested (with Mockito)
+
 
 ## Layered Architecture
 ![alt text](https://github.com/hunaidee007/PhoneBook-Repo/blob/master/Architecture.png)
